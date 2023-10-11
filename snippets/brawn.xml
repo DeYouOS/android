@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- DeYouOS -->
+  <project path="external/liboatpp" name="DeYouOS/android_external_liboatpp" />
+  <!-- <project path="external/libwebsockets" name="DeYouOS/android_external_libwebsockets" /> -->
+  <project path="external/libredsocks" name="DeYouOS/android_external_libredsocks" />
+  <project path="packages/apps/SogouIME" name="DeYouOS/android_packages_apps_SogouIME" />
+  <project path="packages/apps/Brawn" name="DeYouOS/android_packages_apps_Brawn" />
+  <project path="packages/apps/BrawnReport" name="DeYouOS/android_packages_apps_BrawnReport" />
+  <project path="vendor/brawn" name="DeYouOS/android_vendor_brawn" />
+  <project path="hardware/brawn" name="DeYouOS/android_hardware_brawn" />
+  <project path="system/brawnShell" name="DeYouOS/android_system_brawnShell" />
+
+  <!-- frida -->
+  <project path="external/frida" name="DeYouOS/android_external_frida" revision="main" />
+  <project path="external/frida/frida-gum" name="frida/frida-gum" revision="b1e691abbfa1a1dcd5f1697282d2b8323a57cca7" />
+  <project path="external/frida/frida-core" name="DeYouOS/android_external_frida-core" revision="main" />
+  <project path="external/frida/frida-client" name="DeYouOS/android_external_frida-client" revision="main" />
+  <project path="external/frida/frida-gum_script" name="DeYouOS/android_external_frida-gum_script" revision="main" />
+  <project path="external/frida/releng/meson" name="frida/meson" revision="0890cf807af41bb4e6c2984e9bfbacb19144c69a" />
+
+  <project path="external/XUI" name="DeYouOS/android_external_XUI" revision="master" />
+  <project path="external/XUtil" name="DeYouOS/android_external_XUtil" revision="master" />
+  <project path="external/XPage" name="DeYouOS/android_external_XPage" revision="master" />
+  <project path="external/XRouter" name="DeYouOS/android_external_XRouter" revision="master" />
+  <project path="external/XQRCode" name="DeYouOS/android_external_XQRCode" revision="master" />
+  <project path="external/XSmartRefreshLayout" name="DeYouOS/android_external_SmartRefreshLayout" revision="main" />
+
+  <project path="external/XOAID" name="DeYouOS/android_external_OAID" revision="master" />
+  <project path="external/XEventBus" name="DeYouOS/android_external_EventBus" revision="master" />
+
+</manifest>
